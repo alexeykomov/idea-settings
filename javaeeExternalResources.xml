@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://data.soap.CDRator.com/xsd" />
+    <ignored-resource url="http://service.soap.CDRator.com" />
+    <ignored-resource url="http://www.w3.org/2003/05/soap-envelope" />
+  </component>
+</application>
