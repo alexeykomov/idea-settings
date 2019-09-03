@@ -15,20 +15,20 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="dust" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="Fastfile" type="Ruby" />
       <mapping ext="paw" type="XML" />
-      <mapping pattern="nginx*conf" type="nginx file type" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="nginx*conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
