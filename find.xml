@@ -17,7 +17,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.ts, *.tsx</mask>
-    <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
