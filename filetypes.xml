@@ -14,6 +14,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="settingsitem" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="watch" type="PLAIN_TEXT" />
       <mapping pattern="CREDITS" type="PLAIN_TEXT" />
       <mapping pattern="nginx*conf" type="nginx file type" />
