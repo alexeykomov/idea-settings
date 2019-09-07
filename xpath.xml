@@ -1,14 +1,10 @@
 <application>
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
-      <TextAttributes>
-        <option name="effectType" />
-      </TextAttributes>
+      <TextAttributes />
     </option>
     <option name="contextAttributes">
-      <TextAttributes>
-        <option name="effectType" />
-      </TextAttributes>
+      <TextAttributes />
     </option>
   </component>
 </application>

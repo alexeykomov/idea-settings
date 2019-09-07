@@ -11,24 +11,13 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping ext="mp4" type="Native" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="settingsitem" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping ext="dust" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="Fastfile" type="Ruby" />
-      <mapping ext="paw" type="XML" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="watch" type="PLAIN_TEXT" />
+      <mapping pattern="CREDITS" type="PLAIN_TEXT" />
       <mapping pattern="nginx*conf" type="nginx file type" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
