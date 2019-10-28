@@ -13,14 +13,15 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
