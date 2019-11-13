@@ -17,8 +17,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.m</mask>
     <mask>*.ts</mask>
-    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
