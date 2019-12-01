@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="f">
+      <action id="EditorCopy" />
+      <action id="EditorLeft" />
+      <typing text-keycode="67:0;79:0;78:0;83:0;79:0;76:0;69:0;46:0;76:0;79:0;71:0;0:1;222:0">console.log('</typing>
+      <action id="EditorLineEnd" />
+      <typing text-keycode="32:0;0:1;222:0;44:0;32:0">&amp;#x20;&quot;',&amp;#x20;</typing>
+      <action id="EditorPaste" />
+      <typing text-keycode="0:1;59:0">);</typing>
+    </macro>
+    <macro name="f2">
+      <action id="EditorCopy" />
+      <action id="EditorCut" />
+      <typing text-keycode="67:0;79:0;78:0;83:0;79:0;76:0;69:0;46:0;76:0;79:0;71:0;0:1;222:0">console.log('</typing>
+      <action id="EditorPaste" />
+      <typing text-keycode="513:1;32:1">:&amp;#x20;</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="44:0;32:0">,&amp;#x20;</typing>
+      <action id="EditorPaste" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="0:1;59:0">);</typing>
+    </macro>
+  </component>
+</application>
