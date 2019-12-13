@@ -16,6 +16,7 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="watch" type="PLAIN_TEXT" />
       <mapping pattern="CREDITS" type="PLAIN_TEXT" />
+      <mapping pattern="Fastfile" type="Ruby" />
       <mapping pattern="nginx*conf" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
