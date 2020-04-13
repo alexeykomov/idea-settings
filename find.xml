@@ -21,5 +21,6 @@
     <mask>*.java</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.json</mask>
+    <mask>*.plist</mask>
   </component>
 </application>
