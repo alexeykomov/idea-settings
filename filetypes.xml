@@ -12,8 +12,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="jp2" type="Image" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="watch" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="CREDITS" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="settingsitem" type="PLAIN_TEXT" />
