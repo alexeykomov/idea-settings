@@ -12,14 +12,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="jp2" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="watch" type="PLAIN_TEXT" />
       <mapping pattern="CREDITS" type="PLAIN_TEXT" />
       <mapping pattern="settingsitem" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="XML" />
       <mapping pattern="Fastfile" type="Ruby" />
       <mapping pattern="Podfile" type="Ruby" />
+      <mapping ext="plist" type="XML" />
       <mapping pattern="nginx*conf" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
