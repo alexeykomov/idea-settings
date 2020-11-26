@@ -19,10 +19,10 @@
       <mapping pattern="settingsitem" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="Fastfile" type="Ruby" />
-      <mapping pattern="Podfile" type="Ruby" />
       <mapping pattern="AlertWithCondition.tsx" type="TypeScript JSX" />
       <mapping ext="plist" type="XML" />
+      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="Podfile" type="Ruby" />
       <mapping pattern="nginx*conf" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
