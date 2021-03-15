@@ -1,15 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -23,10 +15,10 @@
     <mask>*.js</mask>
     <mask>*.h, *.m</mask>
     <mask>*.pbxproj</mask>
-    <mask>*.tsx</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
     <mask>*.ts, *.tsx</mask>
   </component>
 </application>
