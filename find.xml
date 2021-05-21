@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
-    <option name="FILE_MASK" value="*.ts, !*.test.ts" />
+    <option name="FILE_MASK" value="*.ts, !*.test.ts, *.tsx, !*.test.tsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*.test.ts</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.ts, !*.test.ts</mask>
+    <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
   </component>
 </application>
