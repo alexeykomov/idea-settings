@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
+    <option name="FILE_MASK" value="*.ts, *.tsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -30,7 +31,7 @@
     <mask>*.test.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
     <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.test.ts, *.test.tsx</mask>
+    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
