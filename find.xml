@@ -14,15 +14,21 @@
     <mask>*.plist</mask>
     <mask>*.gradle</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
-    <mask>*.js</mask>
     <mask>*.h, *.m</mask>
     <mask>*.pbxproj</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.ts, *test.tsx</mask>
     <mask>*test.tsx</mask>
+    <mask>*.ts</mask>
+    <mask>*.js</mask>
+    <mask>*.spec.ts</mask>
+    <mask>*.ts, *.tsx, *.yml</mask>
+    <mask>*.test.ts</mask>
+    <mask>*.ts, !*.test.ts</mask>
+    <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
+    <mask>*.test.ts, *.test.tsx</mask>
+    <mask>*.yml</mask>
     <mask>*.ts, *.tsx</mask>
   </component>
 </application>
