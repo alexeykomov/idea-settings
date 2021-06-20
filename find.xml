@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.m" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -30,5 +31,6 @@
     <mask>*.test.ts, *.test.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.m</mask>
   </component>
 </application>
