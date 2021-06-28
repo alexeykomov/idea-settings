@@ -4,12 +4,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.test.tsx" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -32,9 +30,9 @@
     <mask>*.test.ts, *.test.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.test.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.test.tsx</mask>
   </component>
 </application>
