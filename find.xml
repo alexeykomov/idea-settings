@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,7 +23,6 @@
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.h, *.m</mask>
     <mask>*.pbxproj</mask>
-    <mask>*.json</mask>
     <mask>*.ts, *test.tsx</mask>
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
@@ -39,5 +38,6 @@
     <mask>*yaml</mask>
     <mask>*.ts</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.json</mask>
   </component>
 </application>
