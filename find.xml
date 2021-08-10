@@ -35,11 +35,11 @@
     <mask>*.tsx</mask>
     <mask>*.test.tsx</mask>
     <mask>*yaml</mask>
-    <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.test.ts</mask>
     <mask>*yml</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.ts</mask>
     <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
   </component>
 </application>
