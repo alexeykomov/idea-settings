@@ -11,7 +11,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yaml, *.yml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -40,7 +39,7 @@
     <mask>*yaml</mask>
     <mask>*.yaml</mask>
     <mask>*.ts, *.tsx</mask>
-    <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
     <mask>*.yaml, *.yml</mask>
+    <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
   </component>
 </application>
