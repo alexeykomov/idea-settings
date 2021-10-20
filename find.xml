@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, *.tsx, *.yml, *.yaml" />
+    <option name="FILE_MASK" value="*.ts, *.tsx" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
@@ -34,7 +34,7 @@
     <mask>*test..ts, *test.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.yaml, *.yml</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
+    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
