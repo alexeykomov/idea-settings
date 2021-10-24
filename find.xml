@@ -1,13 +1,17 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*.yaml, *.yml" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
@@ -27,15 +31,16 @@
     <mask>*.test.ts, *.test.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.test.tsx</mask>
     <mask>*.json</mask>
     <mask>*.test.ts</mask>
     <mask>*.m</mask>
     <mask>*yaml</mask>
     <mask>*.yaml</mask>
-    <mask>*.yaml, *.yml</mask>
+    <mask>*test..ts, *test.tsx</mask>
+    <mask>*.tsx</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
+    <mask>*.yaml, *.yml</mask>
   </component>
 </application>
