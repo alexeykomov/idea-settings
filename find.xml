@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.test.ts, *.test.tsx" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
@@ -24,7 +24,6 @@
     <mask>*.ts, *.tsx, *.yml</mask>
     <mask>*.ts, !*.test.ts</mask>
     <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
-    <mask>*.test.ts, *.test.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.test.tsx</mask>
@@ -38,5 +37,6 @@
     <mask>*.yaml, *.yml</mask>
     <mask>*.tsx</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.test.ts, *.test.tsx</mask>
   </component>
 </application>
