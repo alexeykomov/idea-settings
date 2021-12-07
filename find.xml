@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.ts, *.tsx" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -32,7 +32,7 @@
     <mask>*.test.ts, *.test.tsx</mask>
     <mask>*.test.ts</mask>
     <mask>*.yaml, *.yml</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
