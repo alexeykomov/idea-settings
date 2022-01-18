@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yaml, *.yml" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -35,8 +35,8 @@
     <mask>*.test.ts</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.yaml, *.yml</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
