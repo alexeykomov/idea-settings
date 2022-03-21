@@ -11,8 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*.spec.ts, *.tsx" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
@@ -42,5 +41,6 @@
     <mask>*.yaml, *.yml</mask>
     <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.spec.ts, *.tsx</mask>
   </component>
 </application>
