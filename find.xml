@@ -3,13 +3,15 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
@@ -35,9 +37,10 @@
     <mask>*.tsx</mask>
     <mask>*.test.ts, *.test.tsx</mask>
     <mask>*.test.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.yaml, *.yml</mask>
     <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.spec.ts, *.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
