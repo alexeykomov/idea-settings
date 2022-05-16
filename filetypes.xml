@@ -11,6 +11,7 @@
   </component>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="example" type="AUTO_DETECTED" />
       <mapping ext="jp2" type="Image" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
