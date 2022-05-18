@@ -34,9 +34,9 @@
     <mask>*.test.ts, *.test.tsx</mask>
     <mask>*.test.ts</mask>
     <mask>*.spec.ts, *.tsx</mask>
-    <mask>*.ts, *.tsx</mask>
-    <mask>*.ts</mask>
     <mask>*.yaml, *.yml</mask>
+    <mask>*.ts</mask>
+    <mask>*.ts, *.tsx</mask>
     <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
   </component>
 </application>
