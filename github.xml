@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="Aliaksei-Komleu" id="e24c605d-a246-4180-8229-fa9f512156a6">
+      <server useHttp="false" host="ghe.coxautoinc.com" />
+    </account>
+  </component>
+</application>
