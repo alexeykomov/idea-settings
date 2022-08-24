@@ -7,8 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*.scss, *.ejs" />
     <mask>*.java</mask>
     <mask>*.plist</mask>
     <mask>*.gradle</mask>
@@ -38,5 +37,6 @@
     <mask>*.json</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.scss, *.ejs</mask>
   </component>
 </application>
