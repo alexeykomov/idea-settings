@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.java</mask>
     <mask>*.plist</mask>
     <mask>*.gradle</mask>
@@ -20,7 +21,6 @@
     <mask>*.ts, !*.test.ts</mask>
     <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.test.tsx</mask>
     <mask>*.m</mask>
     <mask>*yaml</mask>
@@ -37,5 +37,6 @@
     <mask>*.ts, *.tsx</mask>
     <mask>*.scss</mask>
     <mask>*.scss, *.ejs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
