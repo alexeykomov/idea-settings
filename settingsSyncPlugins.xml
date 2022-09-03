@@ -51,6 +51,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.lang.ejs">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="JavaScript" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.jetbrains.plugins.jade">
           <value>
             <PluginData />
