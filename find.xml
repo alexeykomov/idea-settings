@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss, *.ejs" />
+    <option name="FILE_MASK" value="*.ts, *.tsx, *.yml" />
     <mask>*.plist</mask>
     <mask>*.gradle</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
@@ -40,7 +40,7 @@
     <mask>*.json</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.ejs</mask>
-    <mask>*.ts, *.tsx, *.yml</mask>
     <mask>*.scss, *.ejs</mask>
+    <mask>*.ts, *.tsx, *.yml</mask>
   </component>
 </application>
