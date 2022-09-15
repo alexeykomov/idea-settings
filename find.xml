@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.ts, *.tsx, *.yml, *.json" />
     <mask>*.gradle</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.h, *.m</mask>
@@ -38,7 +38,7 @@
     <mask>*.ejs</mask>
     <mask>*.scss, *.ejs</mask>
     <mask>*.ts, *.tsx, *.yml</mask>
-    <mask>*.ts, *.tsx, *.yml, *.json</mask>
     <mask>*.json</mask>
+    <mask>*.ts, *.tsx, *.yml, *.json</mask>
   </component>
 </application>
