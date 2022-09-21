@@ -13,7 +13,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts, *.tsx, *.yml, *.json" />
+    <option name="FILE_MASK" value="*.ts, *.tsx" />
     <mask>*.gradle</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.h, *.m</mask>
@@ -38,11 +38,11 @@
     <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.ejs</mask>
     <mask>*.scss, *.ejs</mask>
     <mask>*.ts, *.tsx, *.yml</mask>
     <mask>*.json</mask>
     <mask>*.ts, *.tsx, *.yml, *.json</mask>
+    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
