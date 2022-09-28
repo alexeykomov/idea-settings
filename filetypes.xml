@@ -22,6 +22,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="watch" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="Ruby" />
       <mapping pattern="Fastfile" type="Ruby" />
       <mapping pattern="AlertWithCondition.tsx" type="TypeScript JSX" />
