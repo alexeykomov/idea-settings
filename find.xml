@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*.gradle</mask>
+    <option name="FILE_MASK" value="*.m" />
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.h, *.m</mask>
     <mask>*.pbxproj</mask>
@@ -18,7 +14,6 @@
     <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.test.tsx</mask>
-    <mask>*.m</mask>
     <mask>*yaml</mask>
     <mask>*.yaml</mask>
     <mask>*test..ts, *test.tsx</mask>
@@ -37,5 +32,7 @@
     <mask>*.json</mask>
     <mask>*.ts, *.tsx, *.yml, *.json</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.ts, *.m</mask>
+    <mask>*.m</mask>
   </component>
 </application>
