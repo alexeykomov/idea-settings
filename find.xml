@@ -1,9 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.m" />
+    <option name="FILE_MASK" value="*.ts, *.tsx" />
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.h, *.m</mask>
     <mask>*.pbxproj</mask>
@@ -31,8 +35,8 @@
     <mask>*.ts, *.tsx, *.yml</mask>
     <mask>*.json</mask>
     <mask>*.ts, *.tsx, *.yml, *.json</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.ts, *.m</mask>
     <mask>*.m</mask>
+    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
