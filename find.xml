@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*.ts, *.tsx, *.js, *.jsx</mask>
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.h, *.m</mask>
     <mask>*.pbxproj</mask>
     <mask>*.ts, *test.tsx</mask>
@@ -41,5 +41,6 @@
     <mask>*.ts, *.m</mask>
     <mask>*.m</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
