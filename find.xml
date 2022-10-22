@@ -3,9 +3,13 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.gradle</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
@@ -18,7 +22,6 @@
     <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.test.tsx</mask>
-    <mask>*.m</mask>
     <mask>*yaml</mask>
     <mask>*.yaml</mask>
     <mask>*test..ts, *test.tsx</mask>
@@ -36,6 +39,10 @@
     <mask>*.ts, *.tsx, *.yml</mask>
     <mask>*.json</mask>
     <mask>*.ts, *.tsx, *.yml, *.json</mask>
+    <mask>*.ts, *.m</mask>
+    <mask>*.m</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.gradle</mask>
+    <mask>Podfile</mask>
   </component>
 </application>
