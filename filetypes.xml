@@ -30,10 +30,7 @@
       <mapping pattern="AlertWithCondition.tsx" type="TypeScript JSX" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="nginx*conf" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
