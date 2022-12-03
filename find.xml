@@ -36,8 +36,8 @@
     <mask>*.ts, *.tsx, *.yml, *.json</mask>
     <mask>*.ts, *.m</mask>
     <mask>*.m</mask>
-    <mask>*.gradle</mask>
     <mask>Podfile</mask>
+    <mask>*.gradle</mask>
     <mask>*.ts, *.tsx</mask>
   </component>
 </application>
