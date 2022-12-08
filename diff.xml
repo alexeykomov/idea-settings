@@ -6,6 +6,9 @@
       </entry>
     </option>
   </component>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
+  </component>
   <component name="SvnDiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
@@ -21,9 +24,7 @@
         </PlaceSettings>
       </entry>
       <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
       <entry key="Merge">
         <PlaceSettings>
