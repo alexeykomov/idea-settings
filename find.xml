@@ -5,13 +5,11 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*.pbxproj</mask>
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.ts, *test.tsx</mask>
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
@@ -41,5 +39,6 @@
     <mask>Podfile</mask>
     <mask>*.gradle</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.css</mask>
   </component>
 </application>
