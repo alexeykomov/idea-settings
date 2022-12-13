@@ -1,6 +1,5 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
-    <option name="enableCompletions" value="false" />
   </component>
 </application>
