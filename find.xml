@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
     <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
@@ -33,9 +34,9 @@
     <mask>*.m</mask>
     <mask>Podfile</mask>
     <mask>*.gradle</mask>
-    <mask>*.css</mask>
     <mask>*.js, *.less</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.xml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
