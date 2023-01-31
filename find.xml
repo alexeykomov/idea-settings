@@ -4,12 +4,14 @@
     <option name="customScope" value="All Changed Files" />
     <option name="defaultScopeName" value="All Changed Files" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.css" />
+    <mask>*test.tsx</mask>
+    <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
     <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
     <mask>*.yml</mask>
@@ -35,10 +37,8 @@
     <mask>*.m</mask>
     <mask>Podfile</mask>
     <mask>*.gradle</mask>
-    <mask>*.js, *.less</mask>
     <mask>*.xml</mask>
-    <mask>*.css</mask>
-    <mask>*.ts, *.tsx, *.js</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.css</mask>
   </component>
 </application>
