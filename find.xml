@@ -1,19 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="All Changed Files" />
+    <option name="defaultScopeName" value="All Changed Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
-    <mask>*.pbxproj</mask>
-    <mask>*.ts, *test.tsx</mask>
+    <option name="SEARCH_SCOPE" value="All Changed Files" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
@@ -31,7 +24,6 @@
     <mask>*.ts</mask>
     <mask>*.ts, *.tsx, *.yml, *.yaml</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.ejs</mask>
     <mask>*.scss, *.ejs</mask>
     <mask>*.ts, *.tsx, *.yml</mask>
@@ -41,6 +33,9 @@
     <mask>*.m</mask>
     <mask>Podfile</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.js</mask>
     <mask>*.ts, *.tsx</mask>
   </component>
 </application>

@@ -13,21 +13,23 @@
     <extensionMap>
       <mapping ext="example" type="AUTO_DETECTED" />
       <mapping ext="jp2" type="Image" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="settingsitem" type="PLAIN_TEXT" />
       <mapping pattern="CREDITS" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="watch" type="PLAIN_TEXT" />
-      <mapping ext="strings" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="strings" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="Ruby" />
       <mapping pattern="Fastfile" type="Ruby" />
       <mapping pattern="AlertWithCondition.tsx" type="TypeScript JSX" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="nginx*conf" type="nginx file type" />
