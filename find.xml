@@ -36,8 +36,8 @@
     <mask>Podfile</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.ts, *.tsx</mask>
-    <mask>*.js</mask>
   </component>
 </application>
