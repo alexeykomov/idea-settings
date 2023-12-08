@@ -1,0 +1,5 @@
+<application>
+  <component name="com.github.evgenys91.machinet.common.settings.AppSettingsState">
+    <option name="chatEmptyMessage" value="&lt;h1 align=&quot;center&quot;&gt;Machinet AI Chat&lt;/h1&gt;&#10;&lt;h3 align=&quot;center&quot;&gt;type your query below&lt;/h3&gt;&#10;&#10;---&#10;&#10;[Share](https://www.machinet.net/share) us with your friends&#10;&#10;[Join](https://discord.com/invite/3fBHzYzX57) our community on discord" />
+  </component>
+</application>
