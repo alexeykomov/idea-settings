@@ -1,14 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*test.tsx</mask>
@@ -31,18 +27,19 @@
     <mask>*.ejs</mask>
     <mask>*.scss, *.ejs</mask>
     <mask>*.ts, *.tsx, *.yml</mask>
-    <mask>*.json</mask>
     <mask>*.ts, *.tsx, *.yml, *.json</mask>
     <mask>*.ts, *.m</mask>
     <mask>*.m</mask>
     <mask>Podfile</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.css</mask>
     <mask>§</mask>
     <mask>*.swift</mask>
-    <mask>*.ts, *.tsx</mask>
+    <mask>*.json</mask>
+    <mask>*.css</mask>
+    <mask>*test*</mask>
     <mask>*.ts, *.tsx, *.json</mask>
+    <mask>*.ts, *.tsx</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
