@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.ts, *.tsx, *.json" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
@@ -41,10 +41,10 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
-    <mask>*.ts, *.tsx, *.json</mask>
     <mask>*.test*</mask>
     <mask>*.test.tsx</mask>
     <mask>*.test.ts</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.ts, *.tsx, *.json</mask>
   </component>
 </application>
