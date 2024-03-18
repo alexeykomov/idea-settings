@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
@@ -38,7 +38,6 @@
     <mask>*.css</mask>
     <mask>*test*</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.m</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
@@ -48,5 +47,6 @@
     <mask>*.js</mask>
     <mask>*.ts, *.tsx, *.json</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.java</mask>
   </component>
 </application>
