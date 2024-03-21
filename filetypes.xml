@@ -17,6 +17,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".xcode.env.local" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="settingsitem" type="PLAIN_TEXT" />
       <mapping pattern="CREDITS" type="PLAIN_TEXT" />
