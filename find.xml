@@ -11,7 +11,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
-    <option name="FILE_MASK" value="*.ts, *.tsx, *.xml" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
