@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Changed Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
@@ -42,8 +42,8 @@
     <mask>*.java</mask>
     <mask>*.js, *.java, *.kt</mask>
     <mask>*.ts, *.tsx, *.xml</mask>
-    <mask>*.json</mask>
     <mask>!*.md, !*.apns, !*.html</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.json</mask>
   </component>
 </application>
