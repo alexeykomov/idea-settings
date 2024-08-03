@@ -1,26 +1,26 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Changed Files" />
+    <option name="defaultScopeName" value="All Changed Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Changed Files" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
     <mask>*.ts, !*.test.ts, *.tsx, !*.test.tsx</mask>
     <mask>*.yml</mask>
-    <mask>*.test.tsx</mask>
     <mask>*yaml</mask>
     <mask>*.yaml</mask>
     <mask>*test..ts, *test.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.test.ts, *.test.tsx</mask>
-    <mask>*.test.ts</mask>
     <mask>*.spec.ts, *.tsx</mask>
     <mask>*.yaml, *.yml</mask>
     <mask>*.ts</mask>
@@ -32,17 +32,23 @@
     <mask>*.ts, *.tsx, *.yml, *.json</mask>
     <mask>*.ts, *.m</mask>
     <mask>Podfile</mask>
-    <mask>*.xml</mask>
     <mask>§</mask>
     <mask>*.swift</mask>
-    <mask>*.json</mask>
     <mask>*.css</mask>
     <mask>*test*</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.m</mask>
-    <mask>*.ts, *.tsx, *.json</mask>
+    <mask>*.xml</mask>
+    <mask>*.test*</mask>
+    <mask>*.test.tsx</mask>
+    <mask>*.test.ts</mask>
     <mask>*.js</mask>
+    <mask>*.ts, *.tsx, *.json</mask>
+    <mask>*.java</mask>
+    <mask>*.js, *.java, *.kt</mask>
+    <mask>*.ts, *.tsx, *.xml</mask>
+    <mask>!*.md, !*.apns, !*.html</mask>
+    <mask>*.json</mask>
     <mask>*.ts, *.tsx</mask>
   </component>
 </application>
