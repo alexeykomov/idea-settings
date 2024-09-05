@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.ts, *.tsx, *.json" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
@@ -42,7 +42,6 @@
     <mask>*.test.tsx</mask>
     <mask>*.test.ts</mask>
     <mask>*.js</mask>
-    <mask>*.ts, *.tsx, *.json</mask>
     <mask>*.java</mask>
     <mask>*.js, *.java, *.kt</mask>
     <mask>*.ts, *.tsx, *.xml</mask>
@@ -51,5 +50,6 @@
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx, *.json</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.ts, *.tsx, *.json</mask>
   </component>
 </application>
