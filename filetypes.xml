@@ -13,9 +13,11 @@
     <extensionMap>
       <mapping pattern="Makefile" type="AUTO_DETECTED" />
       <mapping ext="example" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="jp2" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".xcode.env.local" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
@@ -24,10 +26,8 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="watch" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="strings" type="PLAIN_TEXT" />
-      <mapping pattern="Podfile" type="Ruby" />
-      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping pattern="AlertWithCondition.tsx" type="TypeScript JSX" />
       <mapping ext="rss" type="XML" />
       <mapping ext="plist" type="XML" />
@@ -36,8 +36,8 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <mapping ext="env" type="Env File" />
-      <mapping pattern=".env.*" type="Env File" />
+      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="Podfile" type="Ruby" />
       <mapping pattern="nginx*conf" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
