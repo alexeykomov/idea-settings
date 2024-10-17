@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
@@ -36,7 +37,6 @@
     <mask>*.test*</mask>
     <mask>*.test.tsx</mask>
     <mask>*.test.ts</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.js, *.java, *.kt</mask>
     <mask>*.ts, *.tsx, *.xml</mask>
@@ -46,5 +46,6 @@
     <mask>*.ts, *.tsx, *.js, *.jsx, *.json</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.ts, *.tsx, *.json</mask>
+    <mask>*.js</mask>
   </component>
 </application>
