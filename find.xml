@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*test.tsx</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts, !*.test.ts</mask>
@@ -46,11 +47,11 @@
     <mask>*.js, *.java, *.kt</mask>
     <mask>*.ts, *.tsx, *.xml</mask>
     <mask>!*.md, !*.apns, !*.html</mask>
-    <mask>*.json</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx</mask>
     <mask>*.ts, *.tsx, *.js, *.jsx, *.json</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.js</mask>
     <mask>*.ts, *.tsx, *.json</mask>
+    <mask>*.json</mask>
   </component>
 </application>
